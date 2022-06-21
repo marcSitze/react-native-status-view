@@ -5,6 +5,10 @@
   "license": "MIT",
   "repository": "marcSitze/react-native-status-view",
   "main": "./src/components/Status/index.js",
+  "peerDependencies": {
+    "react": "17.0.2",
+    "react-native": "0.68.2"
+  },
   "keywords": [
     "status",
     "view",
