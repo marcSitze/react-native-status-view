@@ -1,0 +1,15 @@
+{
+  "name": "react-native-status-view",
+  "version": "2.0.0",
+  "description": "status view",
+  "license": "MIT",
+  "repository": "marcSitze/react-native-status-view",
+  "main": "./src/components/Status/index.js",
+  "keywords": [
+    "status",
+    "view",
+    "npm",
+    "package",
+    "marcsitze"
+  ]
+}
